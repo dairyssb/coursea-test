@@ -28,7 +28,7 @@ body{
 .navbar{
 border: none;
 background-color: black;
-color: black;
+color: whitesmoke;
 margin-bottom: 5px;
 }
 
@@ -52,6 +52,12 @@ h2{
 	color: indianred;
 	text-align: center;
 	margin-top: 2px;
+	background-color: black;
+}
+
+.navbar-toggle{
+	border: 2px solid white;
+	background-color: dashed whitesmoke;
 }
 
 .navbar-brand{
